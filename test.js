@@ -1,0 +1,12 @@
+console.log('Hello, Strivers!')
+console.log("Hello, World!")
+
+// STEPS FOR PUSHING LOCAL MODIFICATIONS INTO OUR ONLINE GITHUB REPOSITORY
+
+// 1) ADD THE FILES TO THE STAGING AREA (A PLACE FOR TEMPORARILY STORE OUR MODIFICATIONS)
+// git add 
+// 2) CREATE A COMMIT OUT OF THE FILES IN THE STAGING AREA 
+// a commit is a Bundle of some modifications
+//git commit
+// 3) WE NEED TO PUSH OUR COMMIT ONLINE 
+// git push 
